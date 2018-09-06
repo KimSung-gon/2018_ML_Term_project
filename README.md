@@ -12,3 +12,7 @@ Yolo_mark link : https://github.com/AlexeyAB/Yolo_mark
 
 usage:
 ./darknet detector demo data/obj.data yolov2-tiny-one-class.cfg yolov2-tiny-one-class.backup -c 1 -thresh .3
+
+youtube link:
+
+https://www.youtube.com/watch?v=kHskqc-O-ZY
